@@ -1,0 +1,15 @@
+C:\Users\jklh0\source\repos\MyService\MyService\bin\Debug\MyService.exe.config
+C:\Users\jklh0\source\repos\MyService\MyService\bin\Debug\MyService.exe
+C:\Users\jklh0\source\repos\MyService\MyService\bin\Debug\MyService.pdb
+C:\Users\jklh0\source\repos\MyService\MyService\obj\Debug\MyService.ProjectInstaller.resources
+C:\Users\jklh0\source\repos\MyService\MyService\obj\Debug\MyService.csproj.GenerateResource.cache
+C:\Users\jklh0\source\repos\MyService\MyService\obj\Debug\MyService.csproj.CoreCompileInputs.cache
+C:\Users\jklh0\source\repos\MyService\MyService\obj\Debug\MyService.exe
+C:\Users\jklh0\source\repos\MyService\MyService\obj\Debug\MyService.pdb
+C:\Users\jklh0\source\repos\MyService\MyService\bin\Debug\MyService.exe.manifest
+C:\Users\jklh0\source\repos\MyService\MyService\bin\Debug\MyService.application
+C:\Users\jklh0\source\repos\MyService\MyService\obj\Debug\MyService.csprojAssemblyReference.cache
+C:\Users\jklh0\source\repos\MyService\MyService\obj\Debug\MyService.MyNewService.resources
+C:\Users\jklh0\source\repos\MyService\MyService\obj\Debug\MyService.TrustInfo.xml
+C:\Users\jklh0\source\repos\MyService\MyService\obj\Debug\MyService.exe.manifest
+C:\Users\jklh0\source\repos\MyService\MyService\obj\Debug\MyService.application

@@ -1,0 +1,15 @@
+C:\Users\jklh0\source\repos\MyService\MyService\bin\Release\MyService.exe.config
+C:\Users\jklh0\source\repos\MyService\MyService\bin\Release\MyService.exe
+C:\Users\jklh0\source\repos\MyService\MyService\bin\Release\MyService.pdb
+C:\Users\jklh0\source\repos\MyService\MyService\obj\Release\MyService.ProjectInstaller.resources
+C:\Users\jklh0\source\repos\MyService\MyService\obj\Release\MyService.csproj.GenerateResource.cache
+C:\Users\jklh0\source\repos\MyService\MyService\obj\Release\MyService.csproj.CoreCompileInputs.cache
+C:\Users\jklh0\source\repos\MyService\MyService\obj\Release\MyService.exe
+C:\Users\jklh0\source\repos\MyService\MyService\obj\Release\MyService.pdb
+C:\Users\jklh0\source\repos\MyService\MyService\bin\Release\MyService.exe.manifest
+C:\Users\jklh0\source\repos\MyService\MyService\bin\Release\MyService.application
+C:\Users\jklh0\source\repos\MyService\MyService\obj\Release\MyService.csprojAssemblyReference.cache
+C:\Users\jklh0\source\repos\MyService\MyService\obj\Release\MyService.TrustInfo.xml
+C:\Users\jklh0\source\repos\MyService\MyService\obj\Release\MyService.exe.manifest
+C:\Users\jklh0\source\repos\MyService\MyService\obj\Release\MyService.application
+C:\Users\jklh0\source\repos\MyService\MyService\obj\Release\MyService.MyNewService.resources
